@@ -126,7 +126,7 @@
     }
 
 }
-@media(max-width:350px){
+@media(max-width:345px){
     *{
         overflow: hidden;
     }
@@ -145,7 +145,7 @@
     }
     #solution{
         float: right;
-        margin-right: 25%;
+        margin-right: 26%;
         margin-top: -60px;
         width:90px;
         height: 85px;
@@ -154,13 +154,13 @@
         border-radius: 25px;
         height: 20px;
         background-color: #afece8;
-        width:100px;
+        width:95px;
     }
     #input2{
         border-radius: 25px;
         height: 20px;
         background-color: #afece8;
-        width:100px;
+        width:95px;
     
     }
     
@@ -168,7 +168,7 @@
         border-radius: 25px;
         height: 20px;
         background-color: #afece8;
-        width:100px;
+        width:95px;
     }
 
 }
