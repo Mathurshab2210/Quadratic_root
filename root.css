@@ -192,9 +192,12 @@
     #solution{
         float: right;
         margin-right: 25%;
-        margin-top: -60px;
-        width:90px;
-        height: 85px;
+        margin-top: -80px;
+        width:97px;
+        height: 95px;
+    }
+    #answer{
+        font-size:16px ;
     }
     #input1{
         border-radius: 25px;
