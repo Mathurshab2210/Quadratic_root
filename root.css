@@ -1,0 +1,174 @@
+*{
+    overflow: hidden;
+    background-color: #18968e;
+}
+#heading{
+    justify-content: center;
+    margin-left: 30%;
+    width: fit-content;
+    font-size: 28px;
+    text-shadow: whitesmoke 2px 5px;
+}
+#input1{
+    border-radius: 25px;
+    height: 30px;
+    background-color: #afece8;
+}
+#input2{
+    border-radius: 25px;
+    height: 30px;
+    background-color: #afece8;
+
+}
+
+#input3{
+    border-radius: 25px;
+    height: 30px;
+    background-color: #afece8;
+}
+#results{
+    width: 150px;
+    height: 35px;
+    margin-left: 25%;
+    color: white;
+    background-color: #043d39;
+    border: 2px white solid;
+    border-radius: 20px;
+
+}
+#answer{
+    color:black;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: cursive;
+    background-color: rgb(236, 188, 188);
+}
+#container{
+    margin-left: 30%;
+    width: 50%;
+    
+}
+#solution{
+    float: right;
+    margin-right: 35%;
+    margin-top: -75px;
+    border: 2px whitesmoke solid;
+    border-radius: 16px;
+    
+}
+@media(max-width:800px){
+    *{
+        overflow: hidden;
+    }
+    #heading{
+        justify-content: center;
+        margin-left: 5%;
+        font-weight: bolder;
+        font-family: cursive;
+        font-size: 25px;
+        width: max-content;
+    }
+    #container{
+        margin-left: 15%;
+        width: 100%;
+    }
+    #solution{
+        float: right;
+        margin-right: 40%;
+        margin-top: -75px;
+    }
+
+
+}
+@media(max-width:690px){
+    *{
+        overflow: hidden;
+    }
+    #heading{
+        justify-content: center;
+        margin-left: 5%;
+        font-weight: bolder;
+        font-family: cursive;
+        font-size: 25px;
+        width: max-content;
+    }
+    #container{
+        margin-left: 15%;
+        width: 100%;
+    }
+    #solution{
+        float: right;
+        margin-right: 20%;
+        margin-top: -75px;
+    }
+
+}
+@media(max-width:375px){
+    *{
+        overflow: hidden;
+    }
+    #heading{
+        justify-content: center;
+        margin-left: 5%;
+        font-weight: bolder;
+        font-family: cursive;
+        font-size: 15px;
+        width: max-content;
+    }
+    #container{
+        margin-left: 15%;
+        width: 100%;
+    }
+    #solution{
+        float: right;
+        margin-right: 20%;
+        margin-top: -75px;
+    }
+
+}
+@media(max-width:350px){
+    *{
+        overflow: hidden;
+    }
+    #heading{
+        justify-content: center;
+        margin-left: 10%;
+        font-weight: bolder;
+        font-family: cursive;
+        font-size: 15px;
+        width: max-content;
+    }
+    #container{
+    
+        width: 100%;
+
+    }
+    #solution{
+        float: right;
+        margin-right: 25%;
+        margin-top: -60px;
+        width:90px;
+        height: 85px;
+    }
+    #input1{
+        border-radius: 25px;
+        height: 20px;
+        background-color: #afece8;
+        width:100px;
+    }
+    #input2{
+        border-radius: 25px;
+        height: 20px;
+        background-color: #afece8;
+        width:100px;
+    
+    }
+    
+    #input3{
+        border-radius: 25px;
+        height: 20px;
+        background-color: #afece8;
+        width:100px;
+    }
+
+}
